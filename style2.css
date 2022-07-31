@@ -15,7 +15,7 @@ body{
     justify-content: center;
 }
 
-body *{
+*{
     box-sizing: border-box;
 }
 
